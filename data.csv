@@ -1,0 +1,23 @@
+id,name,age,gender,email
+1,Alice Martin,28,female,alice.martin@example.com
+2,Baptiste Dupont,34,male,baptiste.dupont@example.com
+3,Chloé Durand,22,female,chloe.durand@example.com
+4,Damien Leroy,45,male,damien.leroy@example.com
+5,Emma Bernard,30,female,emma.bernard@example.com
+6,Florian Petit,27,male,florian.petit@example.com
+7,Garance Moreau,31,female,garance.moreau@example.com
+8,Hugo Lambert,29,male,hugo.lambert@example.com
+9,Inès Richard,36,female,ines.richard@example.com
+10,Julien Fournier,40,male,julien.fournier@example.com
+11,Karine Rousseau,26,female,karine.rousseau@example.com
+12,Louis Faure,33,male,louis.faure@example.com
+13,Manon Blanchard,24,female,manon.blanchard@example.com
+14,Nathan Garnier,38,male,nathan.garnier@example.com
+15,Océane Chevalier,29,female,oceane.chevalier@example.com
+16,Paul Renard,41,male,paul.renard@example.com
+17,Quitterie Meyer,23,female,quitterie.meyer@example.com
+18,Raphaël Perrin,35,male,raphael.perrin@example.com
+19,Sophie Leblanc,32,female,sophie.leblanc@example.com
+20,Thomas Girard,37,male,thomas.girard@example.com
+27,Zoé Olivier,25,non-binary,zoe.olivier@example.com
+28,Adrien Colin,30,,adrien.colin@example.com
