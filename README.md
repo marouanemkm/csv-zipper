@@ -24,8 +24,8 @@ yarn install
 
 ### 2. Créer les variables d'environnements
 
-- **Backend** : `PORT`, qui par défaut est égale à _5500_
-- **Frontend** : `REACT_APP_BACKEND_URL`, qui par défaut est égale à _https://localhost:5500_
+- **Backend** : `PORT`, qui par défaut est égale à **5500**
+- **Frontend** : `REACT_APP_BACKEND_URL`, qui par défaut est égale à **https://localhost:5500**
 
 ### 3. Lancer le projet
 
